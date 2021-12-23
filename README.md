@@ -9,9 +9,6 @@ Our goal of this project is to construct a new system of games recommendation wh
 # Web Interface Link
 Url to web interface: https://jsfiddle.net/HXH1620/bL39a2jg/show/
 
-# Data Link
-Url to all data used and generated: https://drive.google.com/drive/folders/1Sba1O7oKbyLZxjN3HatpnoF2h3c4RmFh
-
 # Organization of the Files
 ```
 . 
